@@ -22,7 +22,7 @@ var levelsCollection = {
             'x                              !    !',
             'x         x             x           !',
             'd    o    x  x        x x           !!',
-            'd   ooo   x  x       xx xx     !    !!',
+            'd   ooo   x  x       xx xx          !!',
             'd 7ooooo8 x!!x!!xo!!xx!9!xx    !!!x!!!',
             'xxxxxxxxxxx!!x!xxxx!xxxxxxxxxxx!!!x!!!',
             '              !    !            !  !!!',
